@@ -1,0 +1,195 @@
+@media all and (max-width:1000px){
+
+    .background{
+        background-image: linear-gradient(to right, rgba(98,189,252,1), rgba(132,144,255,1));
+        
+    }
+
+    .container2_a{
+        border: 1px solid #ffffff;
+        color: #000000;
+        font-weight: bold;
+        background-color: #ffffff;
+    }
+
+    .container2_a:hover{
+        color: #ffffff;
+        background-image: linear-gradient(to right, rgba(98,189,252,1), rgba(132,144,255,1));
+    }
+    .row1_text1{
+        font-size: calc(5vw + 8px);
+    }
+
+    .row1_text2{
+        font-size: calc(3vw + 2px);
+    }
+
+    .row1_img{
+        width: 40%;
+    }
+
+    .row1_botton{
+        width: 35%;
+        background-color: rgb(255, 255, 255);
+        font-weight: bold;
+        border-radius: 20px;
+    }
+    
+    .container2_row1_txt1{
+        font-size: calc(5vw + 8px);
+        font-weight: bold;
+    }
+
+    .container2_row1_txt2{
+        font-size: calc(2vw + 4px);
+        color: #777777;
+        padding-bottom: 50px;
+        text-decoration: none;
+    }
+
+    .container3_txt1{
+        text-decoration: none;
+        font-weight: bold;
+        font-size: calc(2.5vw + 5px);
+        color: #000000;
+        transition: 0.3s;
+    }
+
+    .container3_txt1:hover{
+        background: linear-gradient(to right, rgba(98,189,252,1), rgba(132,144,255,1));
+        color: transparent;
+        background-clip: text;
+    }
+
+    .container3_img{
+        width: 18%;
+    }
+
+    .container4{
+        background-color: rgb(245, 245, 255);
+    }
+
+    .container4_txt2{
+        font-size: calc(2vw + 4px);
+        color: #777777;
+        text-decoration: none;
+    }
+
+    .container4_txt3{
+        text-decoration: none;
+        font-weight: bold;
+        font-size: calc(2.5vw + 5px);
+        color: #000000;
+    }
+
+    .container4_progress{
+        background: linear-gradient(to right, rgba(98,189,252,1), rgba(132,144,255,1));
+        color: transparent;
+    }
+
+    .container5_div1{
+        padding-top: 100px;
+        padding-bottom: 80px;
+    }
+
+    .container5_txt1{
+        text-decoration: none;
+        font-weight: bold;
+        font-size: calc(3vw + 6px);
+        color: #000000;
+    }
+
+    .container5{
+        padding-top: 100px;
+        padding-bottom: 80px;
+        background-color: rgb(245, 245, 255);
+    }
+
+    .container5_col1{
+        padding-bottom: 70px;
+    }
+
+    .container6_txt1{
+        text-decoration: none;
+        font-weight: bold;
+        font-size: calc(2.5vw + 6px);
+        color: #000000;
+        padding-bottom: 30px;
+    }
+
+    .container6_div1{
+        padding-bottom: 100px;
+    }
+
+    .container6_div2{
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+
+    .container6_txt2{
+        text-decoration: none;
+        font-weight: bold;
+        font-size: calc(2.5vw + 6px);
+        color: #000000;
+        padding-bottom: 30px;
+        padding-top: 30px;
+    }
+
+    .container7_col02{
+        background-color: rgb(245, 245, 255);
+        font-size: calc(2vw + 4px);
+        color: #777777;
+        text-decoration: none;
+        transition: 0.4s;
+    }
+
+    .container7_col02:hover{
+        background: linear-gradient(to right, rgba(98,189,252,1), rgba(132,144,255,1));
+        color: rgb(255, 255, 255);
+    }
+
+    .container7_col2_txt1{
+        text-decoration: none;
+        font-weight: bold;
+        font-size: calc(2.5vw + 6px);
+        color: #000000;
+        transition: 0.2s;
+    }
+
+    .container7_col2_txt1:hover{
+        color: rgb(255, 255, 255);
+    }
+
+    .container7_col2_txt2:hover{
+        color: rgb(255, 255, 255);
+    }
+
+    .form1{
+        height: 200px;
+    }
+
+    .container8{
+        background-color: #222222;
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+
+    .container8_txt1{
+        color: rgb(255, 255, 255);
+        font-size: calc(2.5vw + 6px);
+        font-weight: bold;
+    }
+
+    .form_main{
+        padding-bottom: 100px;
+    }
+
+    .container8_botton{
+        background: linear-gradient(to right, rgba(98,189,252,1), rgba(132,144,255,1));
+    }
+
+    .container8_botton1{
+        background: #191919;
+        border: 0px;
+    }
+}
